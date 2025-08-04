@@ -1,0 +1,13 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2025-08-04T07:46:20.125926954Z",
+    "properties" : {
+      "projectName" : "Seed4J Brand",
+      "baseName" : "seed4jbrand",
+      "nodePackageManager" : "npm",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  } ]
+}
