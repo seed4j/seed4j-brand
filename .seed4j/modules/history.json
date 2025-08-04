@@ -1,33 +1,48 @@
 {
-  "actions" : [ {
-    "module" : "init",
-    "date" : "2025-08-04T07:46:20.125926954Z",
-    "properties" : {
-      "projectName" : "Seed4J Brand",
-      "baseName" : "seed4jbrand",
-      "nodePackageManager" : "npm",
-      "endOfLine" : "lf",
-      "indentSize" : 2
+  "actions": [
+    {
+      "module": "init",
+      "date": "2025-08-04T07:46:20.125926954Z",
+      "properties": {
+        "projectName": "Seed4J Brand",
+        "baseName": "seed4jbrand",
+        "nodePackageManager": "npm",
+        "endOfLine": "lf",
+        "indentSize": 2
+      }
+    },
+    {
+      "module": "license-apache",
+      "date": "2025-08-04T07:46:20.300116646Z",
+      "properties": {
+        "projectName": "Seed4J Brand",
+        "baseName": "seed4jbrand",
+        "nodePackageManager": "npm",
+        "endOfLine": "lf",
+        "indentSize": 2
+      }
+    },
+    {
+      "module": "renovate",
+      "date": "2025-08-04T07:46:20.322546749Z",
+      "properties": {
+        "projectName": "Seed4J Brand",
+        "baseName": "seed4jbrand",
+        "nodePackageManager": "npm",
+        "endOfLine": "lf",
+        "indentSize": 2
+      }
+    },
+    {
+      "module": "prettier",
+      "date": "2025-08-04T07:47:01.256507766Z",
+      "properties": {
+        "projectName": "Seed4J Brand",
+        "baseName": "seed4jbrand",
+        "nodePackageManager": "npm",
+        "endOfLine": "lf",
+        "indentSize": 2
+      }
     }
-  }, {
-    "module" : "license-apache",
-    "date" : "2025-08-04T07:46:20.300116646Z",
-    "properties" : {
-      "projectName" : "Seed4J Brand",
-      "baseName" : "seed4jbrand",
-      "nodePackageManager" : "npm",
-      "endOfLine" : "lf",
-      "indentSize" : 2
-    }
-  }, {
-    "module" : "renovate",
-    "date" : "2025-08-04T07:46:20.322546749Z",
-    "properties" : {
-      "projectName" : "Seed4J Brand",
-      "baseName" : "seed4jbrand",
-      "nodePackageManager" : "npm",
-      "endOfLine" : "lf",
-      "indentSize" : 2
-    }
-  } ]
+  ]
 }
