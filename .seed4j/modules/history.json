@@ -19,5 +19,15 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "renovate",
+    "date" : "2025-08-04T07:46:20.322546749Z",
+    "properties" : {
+      "projectName" : "Seed4J Brand",
+      "baseName" : "seed4jbrand",
+      "nodePackageManager" : "npm",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
